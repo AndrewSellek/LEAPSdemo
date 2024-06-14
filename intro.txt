@@ -1,1 +1,3 @@
 Here is a plain text file. We can edit its contents.
+
+Welcome to LEAPS!
